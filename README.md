@@ -1,3 +1,15 @@
+## Sobre esta copia
+
+Este repositorio contiene material del curso SQL Ultimate Course
+de Data With Baraa:
+https://github.com/DataWithBaraa/sql-ultimate-course
+
+Lo importé con fines de estudio y práctica.
+Los materiales originales pertenecen a sus respectivos autores
+y se conserva la licencia MIT del proyecto.
+
+Mis aportaciones consisten en apuntes y ejercicios personales.
+
 # SQL Ultimate Course
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa) [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339) [![Website](https://img.shields.io/badge/datawithbaraa.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.datawithbaraa.com) [![License](https://img.shields.io/github/license/DataWithBaraa/sql-ultimate-course?style=for-the-badge&color=2EA043)](LICENSE) [![Stars](https://img.shields.io/github/stars/DataWithBaraa/sql-ultimate-course?style=for-the-badge&color=F5B301)](https://github.com/DataWithBaraa/sql-ultimate-course)
